@@ -5,6 +5,8 @@
 
 #### Project Status: *(Development)*.
 
+https://www.sqlshack.com/configure-sql-server-2017-linux-mssql-conf-available-tools/
+
 ...
 
 
